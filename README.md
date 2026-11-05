@@ -34,7 +34,3 @@ This version of the WebStudio landing page focuses on layout construction using 
 - box model and spacing;
 - relative and absolute positioning;
 - building structured page layouts from a design.
-
-## Live Demo
-
-[Open GitHub Pages](https://dashakim2209.github.io/goit-markup-hw-03/)
